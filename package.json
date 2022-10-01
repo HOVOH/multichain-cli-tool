@@ -24,7 +24,7 @@
     "@oclif/plugin-help": "^5",
     "@oclif/plugin-plugins": "^2.0.1",
     "axios": "^0.27.2",
-    "dotenv": "^16.0.2",
+    "dotenv": "^16.0.3",
     "ethers": "^5.7.1"
   },
   "devDependencies": {
