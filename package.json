@@ -17,7 +17,7 @@
     "/oclif.manifest.json"
   ],
   "dependencies": {
-    "@hovoh/ethcall": "^9.9.8",
+    "@hovoh/ethcall": "^9.9.10",
     "@hovoh/evmcontractsregistry": "^0.3.1",
     "@hovoh/openzeppelin-api": "^0.1.3",
     "@oclif/core": "^1.13.10",
